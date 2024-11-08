@@ -6,6 +6,10 @@ import dailyCipher from "./daily-cipher.png";
 import dailyCombo from "./daily-combo.png";
 import mainCharacter from "./main-character.png";
 import hamsterCoin from "./hamster-coin.png";
+import penguinairdrop from "./penguin-airdrop.png";
+import questionmark from "./question-mark.png";
+import btcIcon from "./btc-icon.png";
+import ethIcon from "./eth-icon.png";
 
 export {
     hamsterExchange,
@@ -15,5 +19,9 @@ export {
     dailyCipher,
     dailyCombo,
     mainCharacter,
-    hamsterCoin
+    hamsterCoin,
+    penguinairdrop,
+    questionmark,
+    btcIcon,
+    ethIcon
 };
